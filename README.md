@@ -28,7 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of Huddle landing page solution](./screenshot.jpg)
+![Screenshot of Huddle landing page solution](./huddle-landing-page-with-single-introductory-section-master/design/screenshot__one.png)
+
+![Screenshot of Huddle landing page solution](./huddle-landing-page-with-single-introductory-section-master/design/screenshot__two.png)
 
 ### Links
 
